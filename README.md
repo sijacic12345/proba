@@ -1,2 +1,2 @@
 Probni test pravljenja repozitorijuma
-4.2.2026.
+Datum: 4.2.2026.
